@@ -1,0 +1,6 @@
+# 認証情報は絶対にコミットしないでください
+.env
+.env.*
+!.env.example
+node_modules/
+.DS_Store
